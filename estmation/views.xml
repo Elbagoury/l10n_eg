@@ -1,0 +1,26 @@
+<openerp>
+  <data>
+
+    <record id="estmation_form_view" model="ir.ui.view">
+    <field name="inherit_id" ref="sale.view_order_form" />
+    <field name="model">sale.order</field>
+    <field name="arch" type="xml">
+            <notebook position="inside">
+                <page string="Estmation">
+                    <field name="estmation_id" widget="one2many_list">
+                        <tree string="BUCost" editable="bottom">
+                            <field name="bucode"/>
+                            <field name="directcost"/>
+                            <field name="indirectcost"/>
+                            <field name="salesamount"/>
+                            <field name="salesmargin"/>
+                        </tree>
+                    </field>
+
+                </page>
+            </notebook>
+    </field>
+    </record>
+
+  </data>
+</openerp>

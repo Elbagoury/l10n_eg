@@ -1,1 +1,4 @@
-# Egyptian Chart Of Accounts 
+# odoo_egypt
+Egyptian Chart Of Accounts 
+Estmation 
+
