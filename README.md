@@ -1,0 +1,1 @@
+#Egyptian Chart Of Accounts 
