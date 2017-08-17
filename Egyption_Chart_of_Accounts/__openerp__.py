@@ -20,13 +20,13 @@
 ##############################################################################
 
 {
-    'name': 'Egyption_Chart_of_Accounts',
+    'name': 'Egyptian_Chart_of_Accounts',
     'version': '1.0',
-    'author': 'Elbagoury',
+    'author': 'Mohamed Elbagoury',
     'website': 'facebook.com/elbagoury',
     'category': 'Localization/Account Charts',
     'description': """
-Egypt chart of Accounts  and localization cerated by Mohamed Elbagoury (+2 01090091089).
+Egyptian chart of Accounts  and localization cerated by Mohamed Elbagoury (+2 01090091089).
 =======================================================
 
     """,
