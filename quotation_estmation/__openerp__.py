@@ -1,17 +1,16 @@
 # -*- coding: utf-8 -*-
 {
-    'name': "Estmation",
+    'name': "Quotation_Estmation",
 
     'summary': """
-        Short (1 phrase/line) summary of the module's purpose, used as
-        subtitle on modules listing or apps.openerp.com""",
+Estmation in Qoutation """,
 
     'description': """
-        Long description of module's purpose
+        Estmation in Qoutation
     """,
 
-    'author': "xervon",
-    'website': "http://www.xervon.com",
+    'author': "Mohamed Elbagoury ",
+    'website': "http://www.facebook.com/elbagoury",
 
     # Categories can be used to filter modules in modules listing
     # Check https://github.com/odoo/odoo/blob/master/openerp/addons/base/module/module_data.xml
