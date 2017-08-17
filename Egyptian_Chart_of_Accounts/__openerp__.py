@@ -22,7 +22,7 @@
 {
     'name': 'Egyptian_Chart_of_Accounts',
     'version': '1.0',
-    'author': 'Elbagoury',
+    'author': 'Mohamed Elbagoury',
     'website': 'facebook.com/elbagoury',
     'category': 'Localization/Account Charts',
     'description': """
